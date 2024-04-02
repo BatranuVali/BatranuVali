@@ -10,5 +10,16 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/valentin-mihai-ghi%C8%9B%C4%83-a07a53259">LinkedIn</a>
 
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertoltean314&show_icons=true&locale=en&layout=compact" alt="robertoltean314" />
+</div>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=robertoltean314&show_icons=true&theme=dark&locale=en" alt="robertoltean314" />
+</div>
+<br>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertoltean314&theme=dark" alt="robertoltean314" />
+</div>
 
 
