@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BatranuVali?tab=repositories](https://github.com/BatranuVali?tab=repositories)
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/valentin-mihai-ghi%C8%9B%C4%83-a07a53259"><LinkedIn</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/valentin-mihai-ghi%C8%9B%C4%83-a07a53259">LinkedIn</a>
 
 
 
